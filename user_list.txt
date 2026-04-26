@@ -1,0 +1,5 @@
+admin
+msfadmin
+root
+user
+guest
